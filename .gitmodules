@@ -1,0 +1,3 @@
+[submodule "palava-core"]
+	path = palava-core
+	url = git://github.com/palava/palava-core.git
