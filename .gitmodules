@@ -1,264 +1,264 @@
 [submodule "palava-core"]
 	path = palava-core
-	url = git:@github:palava/palava-core.git
+	url = git@github:palava/palava-core.git
 [submodule "maven-ipcstub-generator"]
 	path = maven-ipcstub-generator
-	url = git:@github:palava/maven-ipcstub-generator.git
+	url = git@github:palava/maven-ipcstub-generator.git
 [submodule "palava-activecollab"]
 	path = palava-activecollab
-	url = git:@github:palava/palava-activecollab.git
+	url = git@github:palava/palava-activecollab.git
 [submodule "palava-bridge"]
 	path = palava-bridge
-	url = git:@github:palava/palava-bridge.git
+	url = git@github:palava/palava-bridge.git
 [submodule "palava-cache"]
 	path = palava-cache
-	url = git:@github:palava/palava-cache.git
+	url = git@github:palava/palava-cache.git
 [submodule "palava-cache-ehcache"]
 	path = palava-cache-ehcache
-	url = git:@github:palava/palava-cache-ehcache.git
+	url = git@github:palava/palava-cache-ehcache.git
 [submodule "palava-cache-infinispan"]
 	path = palava-cache-infinispan
-	url = git:@github:palava/palava-cache-infinispan.git
+	url = git@github:palava/palava-cache-infinispan.git
 [submodule "palava-cache-oscache"]
 	path = palava-cache-oscache
-	url = git:@github:palava/palava-cache-oscache.git
+	url = git@github:palava/palava-cache-oscache.git
 [submodule "palava-captcha"]
 	path = palava-captcha
-	url = git:@github:palava/palava-captcha.git
+	url = git@github:palava/palava-captcha.git
 [submodule "palava-captcha-octo"]
 	path = palava-captcha-octo
-	url = git:@github:palava/palava-captcha-octo.git
+	url = git@github:palava/palava-captcha-octo.git
 [submodule "palava-concurrent"]
 	path = palava-concurrent
-	url = git:@github:palava/palava-concurrent.git
+	url = git@github:palava/palava-concurrent.git
 [submodule "palava-cron"]
 	path = palava-cron
-	url = git:@github:palava/palava-cron.git
+	url = git@github:palava/palava-cron.git
 [submodule "palava-datasource"]
 	path = palava-datasource
-	url = git:@github:palava/palava-datasource.git
+	url = git@github:palava/palava-datasource.git
 [submodule "palava-datasource-bitronix"]
 	path = palava-datasource-bitronix
-	url = git:@github:palava/palava-datasource-bitronix.git
+	url = git@github:palava/palava-datasource-bitronix.git
 [submodule "palava-geo"]
 	path = palava-geo
-	url = git:@github:palava/palava-geo.git
+	url = git@github:palava/palava-geo.git
 [submodule "palava-geonames"]
 	path = palava-geonames
-	url = git:@github:palava/palava-geonames.git
+	url = git@github:palava/palava-geonames.git
 [submodule "palava-geoplanet"]
 	path = palava-geoplanet
-	url = git:@github:palava/palava-geoplanet.git
+	url = git@github:palava/palava-geoplanet.git
 [submodule "palava-grapher"]
 	path = palava-grapher
-	url = git:@github:palava/palava-grapher.git
+	url = git@github:palava/palava-grapher.git
 [submodule "palava-infinispan"]
 	path = palava-infinispan
-	url = git:@github:palava/palava-infinispan.git
+	url = git@github:palava/palava-infinispan.git
 [submodule "palava-ipc"]
 	path = palava-ipc
-	url = git:@github:palava/palava-ipc.git
+	url = git@github:palava/palava-ipc.git
 [submodule "palava-ipc-cache"]
 	path = palava-ipc-cache
-	url = git:@github:palava/palava-ipc-cache.git
+	url = git@github:palava/palava-ipc-cache.git
 [submodule "palava-ipc-cache-php"]
 	path = palava-ipc-cache-php
-	url = git:@github:palava/palava-ipc-cache-php.git
+	url = git@github:palava/palava-ipc-cache-php.git
 [submodule "palava-ipc-execvm"]
 	path = palava-ipc-execvm
-	url = git:@github:palava/palava-ipc-execvm.git
+	url = git@github:palava/palava-ipc-execvm.git
 [submodule "palava-ipc-json"]
 	path = palava-ipc-json
-	url = git:@github:palava/palava-ipc-json.git
+	url = git@github:palava/palava-ipc-json.git
 [submodule "palava-ipc-json-custom"]
 	path = palava-ipc-json-custom
-	url = git:@github:palava/palava-ipc-json-custom.git
+	url = git@github:palava/palava-ipc-json-custom.git
 [submodule "palava-ipc-json-custom-php"]
 	path = palava-ipc-json-custom-php
-	url = git:@github:palava/palava-ipc-json-custom-php.git
+	url = git@github:palava/palava-ipc-json-custom-php.git
 [submodule "palava-ipc-json-rpc"]
 	path = palava-ipc-json-rpc
-	url = git:@github:palava/palava-ipc-json-rpc.git
+	url = git@github:palava/palava-ipc-json-rpc.git
 [submodule "palava-ipc-legacy"]
 	path = palava-ipc-legacy
-	url = git:@github:palava/palava-ipc-legacy.git
+	url = git@github:palava/palava-ipc-legacy.git
 [submodule "palava-ipc-memcache"]
 	path = palava-ipc-memcache
-	url = git:@github:palava/palava-ipc-memcache.git
+	url = git@github:palava/palava-ipc-memcache.git
 [submodule "palava-ipc-netty"]
 	path = palava-ipc-netty
-	url = git:@github:palava/palava-ipc-netty.git
+	url = git@github:palava/palava-ipc-netty.git
 [submodule "palava-ipc-protocol"]
 	path = palava-ipc-protocol
-	url = git:@github:palava/palava-ipc-protocol.git
+	url = git@github:palava/palava-ipc-protocol.git
 [submodule "palava-ipc-security"]
 	path = palava-ipc-security
-	url = git:@github:palava/palava-ipc-security.git
+	url = git@github:palava/palava-ipc-security.git
 [submodule "palava-ipc-session-infinispan"]
 	path = palava-ipc-session-infinispan
-	url = git:@github:palava/palava-ipc-session-infinispan.git
+	url = git@github:palava/palava-ipc-session-infinispan.git
 [submodule "palava-ipc-session-store"]
 	path = palava-ipc-session-store
-	url = git:@github:palava/palava-ipc-session-store.git
+	url = git@github:palava/palava-ipc-session-store.git
 [submodule "palava-ipc-xml"]
 	path = palava-ipc-xml
-	url = git:@github:palava/palava-ipc-xml.git
+	url = git@github:palava/palava-ipc-xml.git
 [submodule "palava-ipc-xml-rpc"]
 	path = palava-ipc-xml-rpc
-	url = git:@github:palava/palava-ipc-xml-rpc.git
+	url = git@github:palava/palava-ipc-xml-rpc.git
 [submodule "palava-jdbc"]
 	path = palava-jdbc
-	url = git:@github:palava/palava-jdbc.git
+	url = git@github:palava/palava-jdbc.git
 [submodule "palava-jmx"]
 	path = palava-jmx
-	url = git:@github:palava/palava-jmx.git
+	url = git@github:palava/palava-jmx.git
 [submodule "palava-jndi"]
 	path = palava-jndi
-	url = git:@github:palava/palava-jndi.git
+	url = git@github:palava/palava-jndi.git
 [submodule "palava-jndi-jboss"]
 	path = palava-jndi-jboss
-	url = git:@github:palava/palava-jndi-jboss.git
+	url = git@github:palava/palava-jndi-jboss.git
 [submodule "palava-jpa"]
 	path = palava-jpa
-	url = git:@github:palava/palava-jpa.git
+	url = git@github:palava/palava-jpa.git
 [submodule "palava-jpa-aspectj"]
 	path = palava-jpa-aspectj
-	url = git:@github:palava/palava-jpa-aspectj.git
+	url = git@github:palava/palava-jpa-aspectj.git
 [submodule "palava-jpa-hibernate"]
 	path = palava-jpa-hibernate
-	url = git:@github:palava/palava-jpa-hibernate.git
+	url = git@github:palava/palava-jpa-hibernate.git
 [submodule "palava-jpa-jta"]
 	path = palava-jpa-jta
-	url = git:@github:palava/palava-jpa-jta.git
+	url = git@github:palava/palava-jpa-jta.git
 [submodule "palava-jta"]
 	path = palava-jta
-	url = git:@github:palava/palava-jta.git
+	url = git@github:palava/palava-jta.git
 [submodule "palava-jta-bitronix"]
 	path = palava-jta-bitronix
-	url = git:@github:palava/palava-jta-bitronix.git
+	url = git@github:palava/palava-jta-bitronix.git
 [submodule "palava-mail"]
 	path = palava-mail
-	url = git:@github:palava/palava-mail.git
+	url = git@github:palava/palava-mail.git
 [submodule "palava-mail-velocity"]
 	path = palava-mail-velocity
-	url = git:@github:palava/palava-mail-velocity.git
+	url = git@github:palava/palava-mail-velocity.git
 [submodule "palava-media"]
 	path = palava-media
-	url = git:@github:palava/palava-media.git
+	url = git@github:palava/palava-media.git
 [submodule "palava-media-expire"]
 	path = palava-media-expire
-	url = git:@github:palava/palava-media-expire.git
+	url = git@github:palava/palava-media-expire.git
 [submodule "palava-model"]
 	path = palava-model
-	url = git:@github:palava/palava-model.git
+	url = git@github:palava/palava-model.git
 [submodule "palava-munin"]
 	path = palava-munin
-	url = git:@github:palava/palava-munin.git
+	url = git@github:palava/palava-munin.git
 [submodule "palava-parent"]
 	path = palava-parent
-	url = git:@github:palava/palava-parent.git
+	url = git@github:palava/palava-parent.git
 [submodule "palava-rendering"]
 	path = palava-rendering
-	url = git:@github:palava/palava-rendering.git
+	url = git@github:palava/palava-rendering.git
 [submodule "palava-rmi"]
 	path = palava-rmi
-	url = git:@github:palava/palava-rmi.git
+	url = git@github:palava/palava-rmi.git
 [submodule "palava-salesforce"]
 	path = palava-salesforce
-	url = git:@github:palava/palava-salesforce.git
+	url = git@github:palava/palava-salesforce.git
 [submodule "palava-scope"]
 	path = palava-scope
-	url = git:@github:palava/palava-scope.git
+	url = git@github:palava/palava-scope.git
 [submodule "palava-security"]
 	path = palava-security
-	url = git:@github:palava/palava-security.git
+	url = git@github:palava/palava-security.git
 [submodule "palava-security-aspectj"]
 	path = palava-security-aspectj
-	url = git:@github:palava/palava-security-aspectj.git
+	url = git@github:palava/palava-security-aspectj.git
 [submodule "palava-servlet"]
 	path = palava-servlet
-	url = git:@github:palava/palava-servlet.git
+	url = git@github:palava/palava-servlet.git
 [submodule "palava-servlet-grizzly"]
 	path = palava-servlet-grizzly
-	url = git:@github:palava/palava-servlet-grizzly.git
+	url = git@github:palava/palava-servlet-grizzly.git
 [submodule "palava-servlet-jetty"]
 	path = palava-servlet-jetty
-	url = git:@github:palava/palava-servlet-jetty.git
+	url = git@github:palava/palava-servlet-jetty.git
 [submodule "palava-servlet-tomcat"]
 	path = palava-servlet-tomcat
-	url = git:@github:palava/palava-servlet-tomcat.git
+	url = git@github:palava/palava-servlet-tomcat.git
 [submodule "palava-store"]
 	path = palava-store
-	url = git:@github:palava/palava-store.git
+	url = git@github:palava/palava-store.git
 [submodule "palava-store-cache"]
 	path = palava-store-cache
-	url = git:@github:palava/palava-store-cache.git
+	url = git@github:palava/palava-store-cache.git
 [submodule "palava-store-filesystem"]
 	path = palava-store-filesystem
-	url = git:@github:palava/palava-store-filesystem.git
+	url = git@github:palava/palava-store-filesystem.git
 [submodule "palava-store-memory"]
 	path = palava-store-memory
-	url = git:@github:palava/palava-store-memory.git
+	url = git@github:palava/palava-store-memory.git
 [submodule "palava-tracking"]
 	path = palava-tracking
-	url = git:@github:palava/palava-tracking.git
+	url = git@github:palava/palava-tracking.git
 [submodule "palava-util"]
 	path = palava-util
-	url = git:@github:palava/palava-util.git
+	url = git@github:palava/palava-util.git
 [submodule "palava-workqueue"]
 	path = palava-workqueue
-	url = git:@github:palava/palava-workqueue.git
+	url = git@github:palava/palava-workqueue.git
 [submodule "cosmocode-assembly"]
 	path = cosmocode-assembly
-	url = git:@github:cosmocode/cosmocode-assembly.git
+	url = git@github:cosmocode/cosmocode-assembly.git
 [submodule "cosmocode-checkstyle"]
 	path = cosmocode-checkstyle
-	url = git:@github:cosmocode/cosmocode-checkstyle.git
+	url = git@github:cosmocode/cosmocode-checkstyle.git
 [submodule "cosmocode-commons"]
 	path = cosmocode-commons
-	url = git:@github:cosmocode/cosmocode-commons.git
+	url = git@github:cosmocode/cosmocode-commons.git
 [submodule "cosmocode-distribution"]
 	path = cosmocode-distribution
-	url = git:@github:cosmocode/cosmocode-distribution.git
+	url = git@github:cosmocode/cosmocode-distribution.git
 [submodule "cosmocode-eclipse"]
 	path = cosmocode-eclipse
-	url = git:@github:cosmocode/cosmocode-eclipse.git
+	url = git@github:cosmocode/cosmocode-eclipse.git
 [submodule "cosmocode-hibernate"]
 	path = cosmocode-hibernate
-	url = git:@github:cosmocode/cosmocode-hibernate.git
+	url = git@github:cosmocode/cosmocode-hibernate.git
 [submodule "cosmocode-issuetracker"]
 	path = cosmocode-issuetracker
-	url = git:@github:cosmocode/cosmocode-issuetracker.git
+	url = git@github:cosmocode/cosmocode-issuetracker.git
 [submodule "cosmocode-issuetracker-activecollab"]
 	path = cosmocode-issuetracker-activecollab
-	url = git:@github:cosmocode/cosmocode-issuetracker-activecollab.git
+	url = git@github:cosmocode/cosmocode-issuetracker-activecollab.git
 [submodule "cosmocode-json"]
 	path = cosmocode-json
-	url = git:@github:cosmocode/cosmocode-json.git
+	url = git@github:cosmocode/cosmocode-json.git
 [submodule "cosmocode-json-jackson"]
 	path = cosmocode-json-jackson
-	url = git:@github:cosmocode/cosmocode-json-jackson.git
+	url = git@github:cosmocode/cosmocode-json-jackson.git
 [submodule "cosmocode-junit"]
 	path = cosmocode-junit
-	url = git:@github:cosmocode/cosmocode-junit.git
+	url = git@github:cosmocode/cosmocode-junit.git
 [submodule "cosmocode-log4j"]
 	path = cosmocode-log4j
-	url = git:@github:cosmocode/cosmocode-log4j.git
+	url = git@github:cosmocode/cosmocode-log4j.git
 [submodule "cosmocode-lucene"]
 	path = cosmocode-lucene
-	url = git:@github:cosmocode/cosmocode-lucene.git
+	url = git@github:cosmocode/cosmocode-lucene.git
 [submodule "cosmocode-parent"]
 	path = cosmocode-parent
-	url = git:@github:cosmocode/cosmocode-parent.git
+	url = git@github:cosmocode/cosmocode-parent.git
 [submodule "cosmocode-rendering"]
 	path = cosmocode-rendering
-	url = git:@github:cosmocode/cosmocode-rendering.git
+	url = git@github:cosmocode/cosmocode-rendering.git
 [submodule "cosmocode-selenium"]
 	path = cosmocode-selenium
-	url = git:@github:cosmocode/cosmocode-selenium.git
+	url = git@github:cosmocode/cosmocode-selenium.git
 [submodule "cosmocode-skin"]
 	path = cosmocode-skin
-	url = git:@github:cosmocode/cosmocode-skin.git
+	url = git@github:cosmocode/cosmocode-skin.git
 [submodule "cosmocode-solr"]
 	path = cosmocode-solr
-	url = git:@github:cosmocode/cosmocode-solr.git
+	url = git@github:cosmocode/cosmocode-solr.git
