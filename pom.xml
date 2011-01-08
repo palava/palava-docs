@@ -46,6 +46,7 @@
     <module>palava-cache</module>
     <module>palava-cache-ehcache</module>
     <module>palava-cache-infinispan</module>
+    <module>palava-cache-memcache</module>
     <module>palava-cache-oscache</module>
     <module>palava-captcha</module>
     <module>palava-captcha-octo</module>
