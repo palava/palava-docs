@@ -19,6 +19,9 @@
 [submodule "palava-cache-infinispan"]
 	path = palava-cache-infinispan
 	url = git@github.com:palava/palava-cache-infinispan.git
+[submodule "palava-cache-memcache"]
+	path = palava-cache-memcache
+	url = git@github.com:palava/palava-cache-memcache.git
 [submodule "palava-cache-oscache"]
 	path = palava-cache-oscache
 	url = git@github.com:palava/palava-cache-oscache.git
