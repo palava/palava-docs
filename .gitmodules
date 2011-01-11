@@ -151,6 +151,9 @@
 [submodule "palava-media-expire"]
 	path = palava-media-expire
 	url = git@github.com:palava/palava-media-expire.git
+[submodule "palava-memcache"]
+	path = palava-memcache
+	url = git@github.com:palava/palava-memcache.git
 [submodule "palava-model"]
 	path = palava-model
 	url = git@github.com:palava/palava-model.git

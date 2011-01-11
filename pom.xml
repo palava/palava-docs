@@ -91,6 +91,7 @@
     <module>palava-mail-velocity</module>
     <module>palava-media</module>
     <module>palava-media-expire</module>
+    <module>palava-memcache</module>
     <module>palava-model</module>
     <module>palava-munin</module>
     <module>palava-parent</module>
