@@ -51,6 +51,7 @@
     <module>palava-captcha</module>
     <module>palava-captcha-octo</module>
     <module>palava-concurrent</module>
+    <module>palava-core</module>
     <module>palava-cron</module>
     <module>palava-datasource</module>
     <module>palava-datasource-bitronix</module>
