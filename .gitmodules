@@ -13,6 +13,9 @@
 [submodule "palava-cache"]
 	path = palava-cache
 	url = git@github.com:palava/palava-cache.git
+[submodule "palava-cache-default"]
+	path = palava-cache-default
+	url = git@github.com:palava/palava-cache-default.git
 [submodule "palava-cache-ehcache"]
 	path = palava-cache-ehcache
 	url = git@github.com:palava/palava-cache-ehcache.git

@@ -44,6 +44,7 @@
     <module>palava-activecollab</module>
     <module>palava-bridge</module>
     <module>palava-cache</module>
+    <module>palava-cache-default</module>
     <module>palava-cache-ehcache</module>
     <module>palava-cache-infinispan</module>
     <module>palava-cache-memcache</module>
