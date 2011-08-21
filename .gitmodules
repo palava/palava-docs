@@ -271,3 +271,6 @@
 [submodule "cosmocode-solr"]
 	path = cosmocode-solr
 	url = git@github.com:cosmocode/cosmocode-solr.git
+[submodule "palava-jms"]
+	path = palava-jms
+	url = git@github.com:palava/palava-jms.git
