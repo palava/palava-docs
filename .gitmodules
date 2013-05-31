@@ -229,9 +229,6 @@
 [submodule "cosmocode-distribution"]
 	path = cosmocode-distribution
 	url = git@github.com:cosmocode/cosmocode-distribution.git
-[submodule "cosmocode-eclipse"]
-	path = cosmocode-eclipse
-	url = git@github.com:cosmocode/cosmocode-eclipse.git
 [submodule "cosmocode-hibernate"]
 	path = cosmocode-hibernate
 	url = git@github.com:cosmocode/cosmocode-hibernate.git
