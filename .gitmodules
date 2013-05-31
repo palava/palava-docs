@@ -274,3 +274,6 @@
 [submodule "palava-jms"]
 	path = palava-jms
 	url = git@github.com:palava/palava-jms.git
+[submodule "cosmocode-licenses"]
+	path = cosmocode-licenses
+	url = ./cosmocode-licenses
